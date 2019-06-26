@@ -8,6 +8,7 @@
     <version>${project.version}</version>
     <date>03/21/2019</date>
     <minServerVersion>4.1.1</minServerVersion>
+    <parentPlugin>groupManager</parentPlugin>
     <adminconsole>
         <tab id="tab-server">
             <sidebar id="sidebar-server-settings">
